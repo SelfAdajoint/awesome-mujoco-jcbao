@@ -9,6 +9,7 @@ A collection of awesome projects using MuJoCo.
 * [Official MuJoCo](https://github.com/google-deepmind/mujoco): Official MuJoCo repository.
 * [Genesis](https://github.com/Genesis-Embodied-AI/Genesis): Taichi-based MuJoCo implementation with faster contact detection.
 * [Mujoco Warp](https://github.com/google-deepmind/mujoco_warp): Nvidia Warp-based MuJoCo implementation. (under construction)
+* [Elastra](https://github.com/WhymustIhaveaname/elastra): MuJoCo simulation of elastic surfaces such as mattresses and trampolines, for training robot policies. [arXiv](https://arxiv.org/abs/2611.15112)
 
 ## Control
 
